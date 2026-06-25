@@ -1,0 +1,14 @@
+smart-file-organizer/
+│
+├── main.py
+├── config.py
+├── requirements.txt
+├── README.md
+├── logs/
+│   └── activity_log.txt
+├── sample_files/
+│   ├── test.pdf
+│   ├── report.csv
+│   └── image.png
+└── screenshots/
+    └── project_output.png

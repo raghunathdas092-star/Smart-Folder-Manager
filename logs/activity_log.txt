@@ -1,0 +1,56 @@
+
+--- Run at 2026-06-18 17:54:54.912381 ---
+Moved: New WinRAR ZIP archive (1).zip -> Archives
+Duplicate found: New WinRAR ZIP archive (3).zip
+Duplicate found: New WinRAR ZIP archive.zip
+Moved: node-v24.16.0-win-x64.zip -> Archives
+Moved: nvm-setup.zip -> Archives
+Duplicate found: OfficeSetup.exe
+Moved: Raghunath_Das_Premium_Project_Associate_Resume.pdf -> Documents
+Moved: Raghunath_Das_Project_Manager_Resume.pdf -> Documents
+
+--- Run at 2026-06-18 18:06:14.538220 ---
+Moved: New WinRAR ZIP archive (3).zip -> Archives
+Duplicate found: New WinRAR ZIP archive.zip
+Duplicate found: OfficeSetup.exe
+
+--- Run at 2026-06-18 18:09:50.987060 ---
+Moved: 10th cirtificate S.jpeg -> Images
+Moved: 11 Sept, 12.19 pm_.m4a -> Music
+Moved: 11 Sept, 5.43 pm_.m4a -> Music
+Moved: Authenticating Security Communications with Digital Signatures-vWorkstation-1649742257110.jpeg -> Images
+Moved: Implementing Access Controls with Windows Active Directory (3e)-TargetWindows01-1649610286915.jpeg -> Images
+Moved: Implementing Access Controls with Windows Active Directory (3e)-TargetWindows01-1649610752448.jpeg -> Images
+Moved: New WinRAR ZIP archive.zip -> Archives
+Duplicate found: OfficeSetup.exe
+Moved: Signature.jpeg -> Images
+Moved: WhatsApp Image 2024-01-08 at 10.58.47 AM.jpeg -> Images
+Moved: WhatsApp Image 2024-01-08 at 11.22.08 AM.jpeg -> Images
+Moved: WhatsApp Image 2024-01-17 at 7.58.54 PM 1.jpeg -> Images
+Moved: WhatsApp Image 2024-01-17 at 7.58.54 PM.jpeg -> Images
+Moved: WhatsApp Image 2024-01-17 at 7.58.56 PM 1.jpeg -> Images
+Moved: WhatsApp Image 2024-01-17 at 7.58.56 PM.jpeg -> Images
+Moved: WhatsApp Image 2024-02-23 at 1.25.59 PM.jpeg -> Images
+Moved: WhatsApp Image 2024-02-26 at 8.24.50 PM.jpeg -> Images
+Moved: WhatsApp Image 2025-08-24 at 7.42.03 PM.jpeg -> Images
+Moved: WhatsApp Image 2025-08-24 at 7.44.08 PM.jpeg -> Images
+Moved: WhatsApp Image 2025-08-24 at 7.44.21 PM.jpeg -> Images
+Moved: WhatsApp Image 2025-12-02 at 7.10.49 PM.jpeg -> Images
+Moved: WhatsApp Image 2025-12-02 at 7.12.39 PM.jpeg -> Images
+Moved: WhatsApp Image 2025-12-05 at 7.38.25 PM.jpeg -> Images
+
+--- Run at 2026-06-18 18:11:29.516069 ---
+Moved: CIPR_Document.docx -> Documents
+Moved: Exam Guide lines.docx -> Documents
+Moved: Instruction_for_Registration.docx -> Documents
+Duplicate found: OfficeSetup.exe
+
+--- Run at 2026-06-18 18:13:26.832211 ---
+Duplicate found: OfficeSetup.exe
+
+--- Run at 2026-06-18 18:15:45.885226 ---
+Moved: Cases_List (1).XLS -> Data
+Moved: METER_CHANGE_REPORT.xls -> Data
+Moved: NEGATIVE READINGS AND METER MISMATCH LIST (1).xls -> Data
+Moved: NEGATIVE READINGS AND METER MISMATCH LIST.xls -> Data
+Duplicate found: OfficeSetup.exe
